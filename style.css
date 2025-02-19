@@ -37,9 +37,11 @@ body {
 
 .paper.image {
   padding: 10px;
+  width:auto;
 }
 .paper.image p {
   font-size: 30px;
+  width:auto;
 }
 
 img {
